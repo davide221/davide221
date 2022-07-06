@@ -3,6 +3,7 @@
 - 🔭 I’m currently building Wonderbox Labs (we are hiring!)
 - 🌱 My main area of interest are smart contracts & machine learning 
 - 📫 How to reach me: d.cifarelli@wonderboxlabs.com
+- ⚡ Reach out if have some interesting project in the web3 space
 
 <!--
 **davide221/davide221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
