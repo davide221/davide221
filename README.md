@@ -4,6 +4,7 @@
 - 🌱 My main area of interest are smart contracts & machine learning 
 - 📫 How to reach me: d.cifarelli@wonderboxlabs.com
 - ⚡ Reach out if have some interesting project in the web3 space
+- 💬 Ask me about Unity and game development 
 
 <!--
 **davide221/davide221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
