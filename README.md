@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently building Wonderbox Labs (we are hiring! info@wonderboxlabs.com)
-- 🌱 My main area of interest are smart contracts & machine learning 
-- 📫 How to reach me: d.cifarelli@wonderboxlabs.com
-- ⚡ Reach out if have some interesting project in the web3 space
-- 💬 Ask me about Unity and game development 
+- 🔭 I’m currently building Safurai - your code personal assistant 
+- 🌱 My main area of interest is artificial intelligence & machine learning
+- 📫 How to reach me: cifarelli@safurai.com
+- ⚡ Reach out if have some interesting project in the LLM space
+
 
 <!--
 **davide221/davide221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
