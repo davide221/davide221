@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently building Safurai - your code personal assistant 
-- 🌱 My main area of interest is artificial intelligence & machine learning
+- 🌱 Tech field -> artificial intelligence & machine learning
 - 📫 How to reach me: cifarelli@safurai.com
 - ⚡ Reach out if have some interesting project in the LLM space
 
