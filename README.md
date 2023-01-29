@@ -1,4 +1,3 @@
-### Hi there 👋
 
 - 🔭 I’m currently building Safurai - your code personal assistant 
 - 🌱 Tech field -> artificial intelligence & machine learning
