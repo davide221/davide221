@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently building Safurai - your code personal assistant 
-- 📫 How to reach me: cifarelli@safurai.com
+- 📫 Reach me @: cifarelli@safurai.com
 
 
 <!--
