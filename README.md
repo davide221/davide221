@@ -1,6 +1,6 @@
 
-- 🔭 I’m currently building Safurai - your code personal assistant 
-- 📫 Reach me @: cifarelli@safurai.com
+- 🔭 I’m currently building an AI copilot for IC design & verification.  
+- 📫 Reach me @: davide@cifarelli.tech
 
 
 <!--
