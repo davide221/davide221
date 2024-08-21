@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently building an AI copilot for IC design & verification.  
+- 🔭 I’m currently building in the genAI infra. layer
 - 📫 Reach me @: davide@cifarelli.tech
 
 
