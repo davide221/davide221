@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently building in the genAI infra. layer
+- 🔭 I’m currently building simple tools to understand how AI works.
 - 📫 Reach me @: davide@cifarelli.tech
 
 
