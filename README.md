@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently building simple tools to understand how AI works.
+- 🔭 I’m currently building tools to make AI reliable and safe.
 - 📫 Reach me @: davide@cifarelli.tech
 
 
