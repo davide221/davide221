@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently building tools to make AI accessible
+- 🔭 I’m currently working on inference and computers to make AI accessible
 - 📫 Reach me @: davide@cifarelli.tech
 
 
